@@ -1,23 +1,20 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1010408085514371082/1053255611535589376/Dark_Blue_Holographic_Twitter_Header.png)
-<h1 align="center">Hi 👋, I'm Kenji</h1>
-<h3 align="center">A passionate developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenjiotazaa&label=Profile%20views&color=0e75b6&style=flat" alt="kenjiotazaa" /> </p>
+Nice to meet you, I'm Kenji
 
-- 🤓 How Did I Learn Develop? **Self Taught Developer**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2349F707&lines=I'm+Kenji%2C+22+years+old;Gamer+Streamer+Developer)](https://git.io/typing-svg)
 
-- 💬 Ask me about **Anything**
+## 🤠 Who Am I? 
+- 🤓 Self taught Developer 
+- 🎯 Goal : To be a better Developer 
+- 😄 Pronouns : He/him
+- 🔞 How old am I: 22 years of age
+- 📫 How to reach me: https://solo.to/kenjiotaza
+- ⚡ Fun fact: I Do When I Want To
+- 👀 See my [Personal portfolio](https://lugh-tuatha.github.io/personal-portfolio/) to get more info
 
-- 🎯 My Goal? **Is To Be A Better Developer**
-
-- 😄 Pronouns **He/Him**
-
-- 🔞 How old am I? **22**
-
-- 📫 How to reach me? **https://solo.to/kenjiotaza**
-
-- ⚡ Fun fact **I Do When I Want To**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
