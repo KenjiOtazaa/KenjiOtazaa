@@ -22,13 +22,17 @@ Nice to meet you, I'm Kenji
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2349F707&lines=I'm+Kenji%2C+22+years+old;Gamer+Streamer+Developer)](https://git.io/typing-svg)
 
 ## 🤠 Who Am I? 
-- 🤓 Self taught Developer 
-- 🎯 Goal : To be a better Developer 
-- 😄 Pronouns : He/him
+- 🤓 Self taught Developer
+- 🎮 Gamer | Streamer
+- 🎓 Student 
+- 🎯 Goal : Is to finish my Studies | Pro in Gaming | Fame in Streaming | Become a Pro Developer
+- 😄 Pronouns : He/Him
 - 🔞 How old am I: 22 years of age
 - 📫 How to reach me: https://solo.to/kenjiotaza
 - ⚡ Fun fact: I Do When I Want To
-- 👀 See my [Personal portfolio](https://lugh-tuatha.github.io/personal-portfolio/) to get more info
+- 👀 See my [Personal Portfolio](https://kenjiotazaa.github.io/KenjiPersonalWebsite/) to get more info
+- 👀 See my [Personal Portfolio](https://kenjiotazaa.github.io/KenjiPersonalWebsitev2/) to get more info
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
