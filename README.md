@@ -2,6 +2,23 @@
 
 Nice to meet you, I'm Kenji
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=KenjiOtazaa)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2349F707&lines=I'm+Kenji%2C+22+years+old;Gamer+Streamer+Developer)](https://git.io/typing-svg)
 
 ## 🤠 Who Am I? 
@@ -18,8 +35,6 @@ Nice to meet you, I'm Kenji
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=KenjiOtazaa)
 
 ## 1. GitHub Stats
 
