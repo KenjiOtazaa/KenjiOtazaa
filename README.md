@@ -16,6 +16,19 @@ Nice to meet you, I'm Kenji
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=KenjiOtazaa)
+
+## 1. GitHub Stats
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KenjiOtazaa&show_icons=true)
+
+## 2. Most Used Languages
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KenjiOtazaa&theme=blue-green)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kenjiotaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenjiotaza" height="30" width="40" /></a>
