@@ -19,7 +19,7 @@ Nice to meet you, I'm Kiyoshi
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KenjiOtazaa)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2349F707&lines=I'm+Kenji%2C+22+years+old;Gamer+Streamer+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2349F707&lines=I'm+Kiyoshi%2C+22+years+old;Gamer+Streamer+Developer)](https://git.io/typing-svg)
 
 ## 🤠 Who Am I? 
 - 🤓 Self taught Developer
