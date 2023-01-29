@@ -6,7 +6,7 @@ Nice to meet you, I'm Kiyoshi
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> 
 <div id="badges">
-  <a href="(https://www.tiktok.com/@kiyoshiotaza)">
+  <a href="https://www.tiktok.com/@kiyoshiotaza">
     <img src="https://img.shields.io/badge/Tiktok-purple?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
   <a href="https://www.youtube.com/@kiyoshiotaza">
@@ -51,10 +51,10 @@ Nice to meet you, I'm Kiyoshi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.tiktok.com/@kiyoshiotaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenjiotaza" height="30" width="40" /></a>
-<a href="http://facebook.com/kiyoshiotazatv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenjiotazatv" height="30" width="40" /></a>
-<a href="https://www.instagram.com/joshjabonete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenjiotaza" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@kiyoshiotaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kenjiotaza" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@kiyoshiotaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="kiyoshiotaza" height="30" width="40" /></a>
+<a href="http://facebook.com/kiyoshiotazatv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiyoshiotazatv" height="30" width="40" /></a>
+<a href="https://www.instagram.com/joshjabonete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshjabonete" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kiyoshiotaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kiyoshiotaza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
