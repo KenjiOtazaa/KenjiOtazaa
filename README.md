@@ -6,7 +6,7 @@ Nice to meet you, I'm Kiyoshi
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> 
 <div id="badges">
-  <a href="https://www.tiktok.com/@kiyoshiotaza">
+  <a href="https://www.tiktok.com/@kiyoshicuteotaza">
     <img src="https://img.shields.io/badge/Tiktok-purple?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
   <a href="https://www.youtube.com/@kiyoshiotaza">
