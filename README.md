@@ -51,7 +51,7 @@ Nice to meet you, I'm Kiyoshi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.tiktok.com/@kiyoshiotaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiyoshiotaza" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@kiyoshicuteotaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiyoshiotaza" height="30" width="40" /></a>
 <a href="http://facebook.com/kiyoshiotazatv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiyoshiotazatv" height="30" width="40" /></a>
 <a href="https://www.instagram.com/josh.jabonete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshjabonete" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kiyoshiotaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kiyoshiotaza" height="30" width="40" /></a>
